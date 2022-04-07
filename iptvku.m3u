@@ -108,3 +108,6 @@ http://group2-swiftservesd-1.dens.tv/s/s11/01.m3u8?
 
 #EXTINF:-1 Elshinta TV
 http://group2-swiftservesd-1.dens.tv/s/s10/01.m3u8?
+
+#EXTINF:-1 NET.
+http://group2-swiftservesd-1.dens.tv/s/s08/02.m3u8
