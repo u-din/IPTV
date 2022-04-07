@@ -26,8 +26,8 @@ http://group1-swiftservehd-1.dens.tv/h/h23/01.m3u8
 #EXTINF:-1 CNA
 http://group1-swiftservehd-1.dens.tv/h/h29/01.m3u8
 
-
-
+#EXTINF:-1 AXN
+http://group2-swiftservehd-1.dens.tv/h/h141/index.m3u8
 
 #EXTINF:-1 ANIPLUS
 http://group2-swiftservehd-1.dens.tv/h/h02/01.m3u8?
