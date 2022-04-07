@@ -1,8 +1,34 @@
-#EXTINF:-1 Rock Extreme
-http://group2-swiftservesd-1.dens.tv/h/h16/01.m3u8?
 
-#EXTINF:-1 TVN
-http://group2-swiftservehd-1.dens.tv/h/h20/01.m3u8?
+#EXTINF:-1 K+
+http://group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+
+#EXTINF:-1 Highlight
+http://group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
+
+#EXTINF:-1 Trans7 HD
+http://group1-swiftservehd-1.dens.tv/h/h11/01.m3u8
+
+#EXTINF:-1 Metro TV
+http://group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+
+#EXTINF:-1 Cinema Europe
+http://group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
+
+#EXTINF:-1 GEM
+http://group1-swiftservehd-1.dens.tv/h/h19/01.m3u8
+
+#EXTINF:-1 Egg TV
+http://group1-swiftservehd-1.dens.tv/h/h22/01.m3u8
+
+#EXTINF:-1 NHK World
+http://group1-swiftservehd-1.dens.tv/h/h23/01.m3u8
+
+#EXTINF:-1 CNA
+http://group1-swiftservehd-1.dens.tv/h/h29/01.m3u8
+
+
+
+
 #EXTINF:-1 ANIPLUS
 http://group2-swiftservehd-1.dens.tv/h/h02/01.m3u8?
 
@@ -16,7 +42,7 @@ http://group2-swiftservehd-1.dens.tv/h/h10/01.m3u8
 http://group2-swiftservehd-1.dens.tv/h/h14/01.m3u8
 
 #EXTINF:-1 Rock Extreme
-http://group2-swiftservesd-1.dens.tv/h/h16/01.m3u8?
+http://group2-swiftservehd-1.dens.tv/h/h16/01.m3u8?
 
 #EXTINF:-1 TVN
 http://group2-swiftservehd-1.dens.tv/h/h20/01.m3u8?
