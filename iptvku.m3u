@@ -1,3 +1,41 @@
+#EXTINF:-1, Ria
+https://tvmalaysia.cyou/hls/ria.m3u8
+
+#EXTINF:-1, Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1, Ria
+https://tvmalaysia.cyou/hls/citra.m3u8
+
+#EXTINF:-1, HBO
+https://tvmalaysia.cyou/hls/hbo.m3u8
+
+#EXTINF:-1, Prima
+https://tvmalaysia.cyou/hls/prima.m3u8
+
+#EXTINF:-1, Ceria
+https://tvmalaysia.cyou/hls/ceria.m3u8
+
+#EXTINF:-1, Citra
+https://tvmalaysia.cyou/hls/citra.m3u8
+
+#EXTINF:-1, Warna
+https://tvmalaysia.cyou/hls/warna.m3u8
+
+#EXTINF:-1, Oasis
+https://tvmalaysia.cyou/hls/oasis.m3u8
+
+#EXTINF:-1, Aura
+https://tvmalaysia.cyou/hls/aura.m3u8
+
+#EXTINF:-1, Rania
+https://tvmalaysia.cyou/hls/rania.m3u8
+
+#EXTINF:-1, Cinemax
+https://tvmalaysia.cyou/hls/cinemax.m3u8
+
+#EXTINF:-1, National Geographic
+https://tvmalaysia.cyou/hls/natgeo.m3u8
 
 #EXTINF:-1, K+
 http://group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
